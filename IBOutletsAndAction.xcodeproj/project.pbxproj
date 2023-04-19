@@ -13,6 +13,7 @@
 		D37ACDB82B42570600A918F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D37ACDB62B42570600A918F7 /* Main.storyboard */; };
 		D37ACDBA2B42570700A918F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D37ACDB92B42570700A918F7 /* Assets.xcassets */; };
 		D37ACDBD2B42570700A918F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D37ACDBB2B42570700A918F7 /* LaunchScreen.storyboard */; };
+		D3ACD91C1FFACADC000A06F0 /* AlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3ACD91B1FFACADC000A06F0 /* AlertViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D37ACDB92B42570700A918F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D37ACDBC2B42570700A918F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D37ACDBE2B42570700A918F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3ACD91B1FFACADC000A06F0 /* AlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D37ACDB02B42570600A918F7 /* AppDelegate.swift */,
 				D37ACDB22B42570600A918F7 /* SceneDelegate.swift */,
 				D37ACDB42B42570600A918F7 /* ViewController.swift */,
+				D3ACD91B1FFACADC000A06F0 /* AlertViewController.swift */,
 				D37ACDB62B42570600A918F7 /* Main.storyboard */,
 				D37ACDB92B42570700A918F7 /* Assets.xcassets */,
 				D37ACDBB2B42570700A918F7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D37ACDB52B42570600A918F7 /* ViewController.swift in Sources */,
 				D37ACDB12B42570600A918F7 /* AppDelegate.swift in Sources */,
 				D37ACDB32B42570600A918F7 /* SceneDelegate.swift in Sources */,
+				D3ACD91C1FFACADC000A06F0 /* AlertViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
